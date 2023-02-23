@@ -3,6 +3,8 @@
     --bgcollormain:#E5E5E5;
 }
 
+
+
 *{
     margin: 0;
     padding: 0;
@@ -25,7 +27,6 @@
     max-width: var(--containerWidth);
     color: var(--bgcollormain);
 }
-
 .logo{
     width: 88px;
     height: 88px;
