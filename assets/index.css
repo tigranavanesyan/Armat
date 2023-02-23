@@ -518,6 +518,15 @@ html{
     opacity:1;
   }
 
+  @media (max-width: 1520px) {
+    .footer__content div h3 {
+        margin-right: 10px;
+    }
+    .footer__content {
+        margin-left: 10px;
+    }
+  }
+
 
 
 
